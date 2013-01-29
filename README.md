@@ -184,3 +184,7 @@ fetch the changes and merge them into your project with git.
 [Complete list of code contributers](https://github.com/scotch/angular-brunch-seed/graphs/contributors)
 
 For more information on angular please check out <http://angularjs.org>
+
+## Projects using angular-brunch-seed
+- [Vlad](http://vladapp.com) - Vlad automatically schedules and manages shift workers based on their
+  availability, preferences, and other factors. Vlad : managers :: calculator : accountants.
