@@ -187,4 +187,6 @@ For more information on angular please check out <http://angularjs.org>
 
 ## Projects using angular-brunch-seed
 - [Vlad](http://vladapp.com) - Vlad automatically schedules and manages shift workers based on their
-  availability, preferences, and other factors. Vlad : managers :: calculator : accountants.
+  availability, preferences, and other factors.
+    
+    Vlad : managers :: calculator : accountants.
